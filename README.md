@@ -56,3 +56,4 @@ Aspire 7 - це ноутбук з серії Aspire від компанії Acer
 
 ## Країна реєстрації бренду
 Китай (Тайвань)
+[Відеоогляд ноутбука](https://drive.google.com/file/d/1ZTtmV92y4a55JR3FTOYnbwCGqhAa1HRH/view?usp=sharing)
