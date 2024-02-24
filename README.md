@@ -3,9 +3,10 @@
 
 ## Огляд
 Aspire 7 - це ноутбук з серії Aspire від компанії Acer.
-<img src="img/1.webp" >
-<img src="img/2.webp" >
-<img src="img/3.webp" >
+<img src="img/1.webp" width="300">
+<img src="img/2.webp" width="300">
+<img src="img/3.webp" width="300">
+
 
 ## Характеристики 
 - **Екран**: <img src="icon/Screen.svg" style="vertical-align: middle; width: 35px; height: 35px;">
