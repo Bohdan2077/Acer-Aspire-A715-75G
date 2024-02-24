@@ -12,7 +12,7 @@ Aspire 7 - це ноутбук з серії Aspire від компанії Acer
   - Роздільна здатність: 1920x1080
   - Покриття: Матове
 
-- **Відеокарта**: <img src="../img/Video card.svg">
+- **Відеокарта**: <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   - Виробник: Nvidia
   - Дискретна відеокарта: GeForce GTX 1650 Ti
   - Обсяг пам'яті: 4 ГБ
