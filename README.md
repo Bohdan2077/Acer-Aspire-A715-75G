@@ -1,4 +1,4 @@
-<img src="icon/notcolor.svg" style="vertical-align: middle; width: 35px; height: 35px;"># Acer-Aspire-A715-75G <img src="icon/notcolor.svg" style="vertical-align: middle; width: 35px; height: 35px;">
+<img src="icon/notcolor.svg" style="vertical-align: middle; width: 35px; height: 35px;">Acer-Aspire-A715-75G <img src="icon/notcolor.svg" style="vertical-align: middle; width: 35px; height: 35px;">
 # Характеристика ноутбука Aspire 7
 
 ## Огляд
